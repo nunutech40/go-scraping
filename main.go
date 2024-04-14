@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-scraping/handlers"
+	"github.com/nunutech40/go-scraping/handlers"
 	"io/ioutil"
 	"log"
 	"net/http"
